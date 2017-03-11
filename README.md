@@ -1,2 +1,2 @@
-# the-mist-ui
+# The Mist UI
 It is a InfernoJS UI component set.
